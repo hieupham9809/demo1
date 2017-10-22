@@ -1,0 +1,15 @@
+diff a/GameProject/Assets/Spirtes/Character/Main Character/Die.meta b/GameProject/Assets/Spirtes/Character/Main Character/Die.meta	(rejected hunks)
+@@ -1,7 +1,13 @@
+ fileFormatVersion: 2
++<<<<<<< HEAD
+ guid: 912b660bb502d96499eb713aa79817b4
+ folderAsset: yes
+ timeCreated: 1508407791
++=======
++guid: 4d47d2fa888566643b6e2e4e8ad4d636
++folderAsset: yes
++timeCreated: 1508437946
++>>>>>>> e5f8d38253fab3a9d83eb7d7692d7156ab3759c5
+ licenseType: Pro
+ DefaultImporter:
+   userData: 
